@@ -1,4 +1,8 @@
-# We will use the inbuilt dataset "quakes", which is something to do with earthquakes
+# suggested reading: Advanced R by Hadley, Subsetting chapter
+#  http://adv-r.had.co.nz/Subsetting.html
+#################################################################################
+
+# We will use the provided dataset "quakes", which is something to do with earthquakes
 
 str(quakes)  # let's find out what this object quakes is
 head(quakes)  # let's have a look at the top section of the data
